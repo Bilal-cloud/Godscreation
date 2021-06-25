@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/istone/static/css/main.3ef45713.chunk.css",
+    "main.js": "/istone/static/js/main.88e5195b.chunk.js",
+    "main.js.map": "/istone/static/js/main.88e5195b.chunk.js.map",
+    "runtime-main.js": "/istone/static/js/runtime-main.684178c0.js",
+    "runtime-main.js.map": "/istone/static/js/runtime-main.684178c0.js.map",
+    "static/js/2.59b2d56c.chunk.js": "/istone/static/js/2.59b2d56c.chunk.js",
+    "static/js/2.59b2d56c.chunk.js.map": "/istone/static/js/2.59b2d56c.chunk.js.map",
+    "static/js/3.b7a26189.chunk.js": "/istone/static/js/3.b7a26189.chunk.js",
+    "static/js/3.b7a26189.chunk.js.map": "/istone/static/js/3.b7a26189.chunk.js.map",
+    "index.html": "/istone/index.html",
+    "static/css/main.3ef45713.chunk.css.map": "/istone/static/css/main.3ef45713.chunk.css.map",
+    "static/js/2.59b2d56c.chunk.js.LICENSE.txt": "/istone/static/js/2.59b2d56c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/istone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.684178c0.js",
+    "static/js/2.59b2d56c.chunk.js",
+    "static/css/main.3ef45713.chunk.css",
+    "static/js/main.88e5195b.chunk.js"
+  ]
+}
